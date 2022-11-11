@@ -3,3 +3,4 @@ Pequeño ejemplo de HTML para Launch X
 
 ## Comidas Rapidas Fuera de este mundo
 Te llevara a ver las estrellas
+![Image text](https://github.com/Miller1999/Comidas-Rapidas-Fuera-de-este-mundo/blob/main/Logo.jpg)

@@ -5,4 +5,4 @@ Pequeño ejemplo de HTML para Launch X
 Te llevara a ver las estrellas
 ![Image text](https://github.com/Miller1999/Comidas-Rapidas-Fuera-de-este-mundo/blob/main/Logo.jpg)
 Aqui encontraras la pagina de Fuera de este mundo 
-## [Practica]([https://Miller1999.Comidas-Rapidas-Fuera-de-este-mundo.io/](https://github.com/Miller1999/Comidas-Rapidas-Fuera-de-este-mundo/blob/main/ComidaRapidaFueradeestemundo.html)) 
+## [Practica](https://github.com/Miller1999/Comidas-Rapidas-Fuera-de-este-mundo/blob/main/ComidaRapidaFueradeestemundo.html) 
